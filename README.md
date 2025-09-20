@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Mashudu Molema — a Full Stack Web Developer in the Making
+#  Hi, my name is Mashudu Molema — Full Stack Web Developer
 
 <p align="center">
   <strong>Crafting elegant solutions and transforming problems into clean, efficient code.</strong><br>
